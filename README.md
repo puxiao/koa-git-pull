@@ -30,7 +30,8 @@
    * `/pull`：post方式，请求拉取代码，然后执行构建
    * `/force-pull`：post方式，请求拉取代码，并且重新安装各个 npm 包，最后再执行构建
 3. 在 `/pull`、`/force-pull` 2个路由中会通过 node 执行我们设定好的一些 .bat 脚本，在这些脚本中会执行：git pull、yarn、yarn build ... 等
-4. 在这些 .bat 脚本中，假定你 git 的项目目录位于：`e:\workspace\my-project`，你可根据实际情况修改这些 .bat 内容
+4.  `pull.bat` 和 `force-pull.bat`中，假定你 git 的项目目录位于：`e:\workspace\my-project`，你可根据实际情况修改该目录
+5. `start.bat` 中，假定你本项目目录位于：`e:\koa\kao-git-pull`，你可根据实际情况修改该目录
 
 
 
