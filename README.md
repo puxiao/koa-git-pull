@@ -41,6 +41,10 @@
 
 
 
+![snapshot](https://raw.githubusercontent.com/puxiao/koa-git-pull/main/snapshot.jpg)
+
+
+
 <br>
 
 **温馨提醒：只把本项目部署到局域网即可，不要允许外网访问**
