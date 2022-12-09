@@ -41,7 +41,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/puxiao/koa-git-pull/main/snapshot.jpg" alt="snapshot" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/puxiao/koa-git-pull/main/snapshot.jpg" alt="snapshot" style="zoom:60%;" />
 
 
 
